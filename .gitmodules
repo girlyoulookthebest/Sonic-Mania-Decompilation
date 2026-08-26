@@ -6,5 +6,5 @@
 	url = https://github.com/nothings/stb
 [submodule "dependencies/RSDKv5"]
 	path = dependencies/RSDKv5
-	url = https://github.com/smb123w64gb/RSDKv5-Decompilation
-	branch = PSP
+	url = https://github.com/girlyoulookthebest/RSDKv5-Decompilation
+	branch = psp-performance
